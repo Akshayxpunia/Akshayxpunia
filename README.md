@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated AI & ML Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./megha-banner.svg?v=130">
-  <source media="(prefers-color-scheme: light)" srcset="./megha-banner-light.svg?v=130">
-  <img src="./megha-banner.svg?v=130" alt="Akshay Kumar — AI & Machine Learning Engineer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./Akshay-banner.svg?v=130">
+  <source media="(prefers-color-scheme: light)" srcset="./Akshay-banner-light.svg?v=130">
+  <img src="./Akshay-banner.svg?v=130" alt="Akshay Kumar — AI & Machine Learning Engineer" width="100%"/>
 </picture>
 
 </div>
