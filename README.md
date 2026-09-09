@@ -16,7 +16,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (Pure SVG) -->
-<img src="./megha-lanyard.svg?v=30" alt="Akshay Kumar ID badge" width="330"/>
+<img src="./Akshay-lanyard.svg?v=30" alt="Akshay Kumar ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
@@ -79,7 +79,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Akshay-Kumar007&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Akshay-Kumar007&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profmile views"/>
 
 <br/><br/>
 
