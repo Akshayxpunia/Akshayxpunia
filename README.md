@@ -50,12 +50,12 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Akshay-Kumar007&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=a855f7&currStreakLabel=38bdf8" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Akshayxpunia&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=a855f7&currStreakLabel=38bdf8" alt="GitHub Streak"/>
 
 <br/><br/>
 
 <!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay-Kumar007&bg_color=0f172a&color=38bdf8&line=a855f7&point=00f0ff&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20🚀" alt="Contribution graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshayxpunia&bg_color=0f172a&color=38bdf8&line=a855f7&point=00f0ff&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20🚀" alt="Contribution graph" width="95%"/>
 
 <br/><br/>
 
