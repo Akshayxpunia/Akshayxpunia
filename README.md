@@ -73,13 +73,13 @@
 ### 📫 Connect With Me
 
 <a href="mailto:puniaakshay275@gmail.com"><img src="https://img.shields.io/badge/Email-0284c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Akshay-Kumar007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/Akshayxpunia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Akshay-Kumar007&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profmile views"/>
+<img src="https://komarev.com/ghpvc/?username=Akshayxpunia&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profmile views"/>
 
 <br/><br/>
 
