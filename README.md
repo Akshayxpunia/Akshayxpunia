@@ -45,8 +45,8 @@
 
 ### 📊 GitHub Activity & Analytics
 
-<img src="./megha-stats.svg?v=20" alt="GitHub Stats" height="185"/>
-<img src="./megha-langs.svg?v=20" alt="Top Languages" height="185"/>
+<img src="./Akshay-stats.svg?v=20" alt="GitHub Stats" height="185"/>
+<img src="./Akshay-langs.svg?v=20" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -60,7 +60,7 @@
 <br/><br/>
 
 <!-- 🏆 Achievements (local animated SVG) -->
-<img src="./megha-trophies.svg?v=20" alt="Trophies" width="95%"/>
+<img src="./Akshay-trophies.svg?v=20" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
