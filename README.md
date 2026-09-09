@@ -66,7 +66,7 @@
 
 ### 🐍 Contribution Activity Snake
 
-<img src="https://raw.githubusercontent.com/Akshay-Kumar007/Akshay-Kumar007/output/github-snake.svg" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/Akshayxpunnia/Akshayxpunia/output/github-snake.svg" alt="Contribution snake"/>
 
 <br/><br/>
 
