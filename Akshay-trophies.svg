@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1452 168" width="1452" height="168" role="img" aria-label="GitHub trophies">
+<defs><style><![CDATA[
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes popCell{0%{opacity:0;transform:translateY(16px) scale(.85)}70%{opacity:1;transform:translateY(-3px) scale(1.03)}100%{opacity:1;transform:translateY(0) scale(1)}}
+@keyframes rankGlow{0%,100%{opacity:.75}50%{opacity:1}}
+@keyframes shineX2{0%{transform:translateX(-200px) skewX(-15deg)}60%,100%{transform:translateX(1532px) skewX(-15deg)}}
+.cell{opacity:0;animation:popCell .55s cubic-bezier(.2,.8,.3,1.2) forwards;transform-box:fill-box;transform-origin:center}
+.rk{animation:rankGlow 2.2s ease-in-out infinite}
+.sh2{animation:shineX2 5s ease-in-out 2s infinite}
+]]></style>
+<linearGradient id="shg2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="50%" stop-color="#fff" stop-opacity=".07"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="tc"><rect x="0" y="0" width="1452" height="168" rx="14"/></clipPath>
+</defs>
+
+  <g class="cell" style="animation-delay:0.30s">
+    <rect x="12" y="12" width="168" height="144" rx="14" fill="#0f172a" stroke="#38bdf8" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="96.0" y="52" text-anchor="middle" font-size="30">🤖</text>
+    <text class="rk" x="164" y="40" text-anchor="end" font-size="24" font-weight="bold" fill="#38bdf8" style="animation-delay:0.70s">SSS</text>
+    <text x="96.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e2e8f0">AI Engineer</text>
+    <text x="96.0" y="112" text-anchor="middle" font-size="11" fill="#94a3b8">Top AI Dev</text>
+    <rect x="30" y="124" width="132" height="5" rx="2.5" fill="#1e293b"/>
+    <rect x="30" y="124" width="0" height="5" rx="2.5" fill="#38bdf8">
+      <animate attributeName="width" from="0" to="132" dur="1s" begin="0.60s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
+  <g class="cell" style="animation-delay:0.45s">
+    <rect x="192" y="12" width="168" height="144" rx="14" fill="#0f172a" stroke="#f59e0b" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="276.0" y="52" text-anchor="middle" font-size="30">🧠</text>
+    <text class="rk" x="344" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#f59e0b" style="animation-delay:0.85s">S</text>
+    <text x="276.0" y="90" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#e2e8f0">Machine Learning</text>
+    <text x="276.0" y="112" text-anchor="middle" font-size="11" fill="#94a3b8">ML Systems</text>
+    <rect x="210" y="124" width="132" height="5" rx="2.5" fill="#1e293b"/>
+    <rect x="210" y="124" width="0" height="5" rx="2.5" fill="#f59e0b">
+      <animate attributeName="width" from="0" to="132" dur="1s" begin="0.75s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
+  <g class="cell" style="animation-delay:0.60s">
+    <rect x="372" y="12" width="168" height="144" rx="14" fill="#0f172a" stroke="#a855f7" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="456.0" y="52" text-anchor="middle" font-size="30">⚡</text>
+    <text class="rk" x="524" y="40" text-anchor="end" font-size="24" font-weight="bold" fill="#a855f7" style="animation-delay:1.00s">A+</text>
+    <text x="456.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e2e8f0">Python Expert</text>
+    <text x="456.0" y="112" text-anchor="middle" font-size="11" fill="#94a3b8">Core Tech</text>
+    <rect x="390" y="124" width="132" height="5" rx="2.5" fill="#1e293b"/>
+    <rect x="390" y="124" width="0" height="5" rx="2.5" fill="#a855f7">
+      <animate attributeName="width" from="0" to="132" dur="1s" begin="0.90s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
+  <g class="cell" style="animation-delay:0.75s">
+    <rect x="552" y="12" width="168" height="144" rx="14" fill="#0f172a" stroke="#60a5fa" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="636.0" y="52" text-anchor="middle" font-size="30">🚀</text>
+    <text class="rk" x="704" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#60a5fa" style="animation-delay:1.15s">A</text>
+    <text x="636.0" y="90" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#e2e8f0">FastAPI Builder</text>
+    <text x="636.0" y="112" text-anchor="middle" font-size="11" fill="#94a3b8">Async Backend</text>
+    <rect x="570" y="124" width="132" height="5" rx="2.5" fill="#1e293b"/>
+    <rect x="570" y="124" width="0" height="5" rx="2.5" fill="#60a5fa">
+      <animate attributeName="width" from="0" to="132" dur="1s" begin="1.05s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
+  <g class="cell" style="animation-delay:0.90s">
+    <rect x="732" y="12" width="168" height="144" rx="14" fill="#0f172a" stroke="#2dd4bf" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="816.0" y="52" text-anchor="middle" font-size="30">📱</text>
+    <text class="rk" x="884" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#2dd4bf" style="animation-delay:1.30s">A</text>
+    <text x="816.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e2e8f0">React Native</text>
+    <text x="816.0" y="112" text-anchor="middle" font-size="11" fill="#94a3b8">Cross-Platform</text>
+    <rect x="750" y="124" width="132" height="5" rx="2.5" fill="#1e293b"/>
+    <rect x="750" y="124" width="0" height="5" rx="2.5" fill="#2dd4bf">
+      <animate attributeName="width" from="0" to="132" dur="1s" begin="1.20s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
+  <g class="cell" style="animation-delay:1.05s">
+    <rect x="912" y="12" width="168" height="144" rx="14" fill="#0f172a" stroke="#10b981" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="996.0" y="52" text-anchor="middle" font-size="30">🐳</text>
+    <text class="rk" x="1064" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#10b981" style="animation-delay:1.45s">A</text>
+    <text x="996.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e2e8f0">Docker</text>
+    <text x="996.0" y="112" text-anchor="middle" font-size="11" fill="#94a3b8">Containerized</text>
+    <rect x="930" y="124" width="132" height="5" rx="2.5" fill="#1e293b"/>
+    <rect x="930" y="124" width="0" height="5" rx="2.5" fill="#10b981">
+      <animate attributeName="width" from="0" to="132" dur="1s" begin="1.35s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
+  <g class="cell" style="animation-delay:1.20s">
+    <rect x="1092" y="12" width="168" height="144" rx="14" fill="#0f172a" stroke="#818cf8" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="1176.0" y="52" text-anchor="middle" font-size="30">🧬</text>
+    <text class="rk" x="1244" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#818cf8" style="animation-delay:1.60s">S</text>
+    <text x="1176.0" y="90" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#e2e8f0">Deep Learning</text>
+    <text x="1176.0" y="112" text-anchor="middle" font-size="11" fill="#94a3b8">Neural Networks</text>
+    <rect x="1110" y="124" width="132" height="5" rx="2.5" fill="#1e293b"/>
+    <rect x="1110" y="124" width="0" height="5" rx="2.5" fill="#818cf8">
+      <animate attributeName="width" from="0" to="132" dur="1s" begin="1.50s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
+  <g class="cell" style="animation-delay:1.35s">
+    <rect x="1272" y="12" width="168" height="144" rx="14" fill="#0f172a" stroke="#fb923c" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="1356.0" y="52" text-anchor="middle" font-size="30">☁️</text>
+    <text class="rk" x="1424" y="40" text-anchor="end" font-size="24" font-weight="bold" fill="#fb923c" style="animation-delay:1.75s">A+</text>
+    <text x="1356.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e2e2e8">Cloud Ready</text>
+    <text x="1356.0" y="112" text-anchor="middle" font-size="11" fill="#94a3b8">Vercel &amp; Linux</text>
+    <rect x="1290" y="124" width="132" height="5" rx="2.5" fill="#1e293b"/>
+    <rect x="1290" y="124" width="0" height="5" rx="2.5" fill="#fb923c">
+      <animate attributeName="width" from="0" to="132" dur="1s" begin="1.65s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
+<g clip-path="url(#tc)"><rect class="sh2" x="0" y="0" width="140" height="168" fill="url(#shg2)"/></g>
+</svg>
